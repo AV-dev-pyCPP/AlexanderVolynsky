@@ -16,11 +16,15 @@ I am a seasoned software developer with over **18 years of professional experien
 
 | Category | Technologies |
 | :--- | :--- |
-| **Primary Languages** | Python, C++, C#, PHP |
+| **Primary Languages** | Python, C/C++, C#, VB, PHP, HTML/CSS/JavaScript |
 | **Web & Backend** | ASP.NET Core, Laravel, FastAPI |
 | **Low-Level / System** | STL, Multithreading, Memory Management (C++) |
-| **Databases** | SQL Server, PostgreSQL, MySQL, MongoDB |
-| **DevOps & Tools** | CI/CD, Git, Linux |
+| **Malware Analysis tools** | Cymulat, FireWalls, Cuckoo Sandbox, VirusTotal, Nessus, OpenVAS |
+| **Protocols** | TCP/IP, UDP, Ethernet, SNMP, HTTP, RTSP / RTP |
+| **Networking tools** | Wireshark sniffer, Fiddler (Monitor HTTP), RF/data sniffer, MIB Browser (SNMPv3) |
+| **Databases** | MS SQL Server MySQL, PostgreSQL, MongoDB |
+| **DevOps & Tools** | CI/CD, Git, Linux, AWS, Azure |
+
 
 ---
 
@@ -32,7 +36,6 @@ I am a seasoned software developer with over **18 years of professional experien
 
 ### 📫 How to reach me
 * **LinkedIn:** [[Your Profile Link](https://www.linkedin.com/in/alexander-volynsky)]
-* **Email:** [alexander.volynsky.dev@gmail.com]
 * **Portfolio/Blog:** [[Your Website](https://www.codeproject.com/search?editorId=478442)]
 
 "The best way to predict the future is to invent it."
