@@ -1,5 +1,5 @@
 # Hi there, I'm Alexander Volynsky 👋
-### Senior Software Engineer | Software Architect | 18+ Years of Experience
+### Senior Software Engineer | Blockchain Engine & Security Researcher | 18+ Years of Experience
 
 I am a seasoned software developer with over **18 years of professional experience** in building robust, scalable, and efficient systems. My background is rooted in a strong academic foundation in **Computer Science and Mathematics**.
 
