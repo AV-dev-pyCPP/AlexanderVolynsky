@@ -17,10 +17,10 @@ I am a seasoned software developer with over **18 years of professional experien
 | Category | Technologies |
 | :--- | :--- |
 | **Primary Languages** | Python, C++, C#, PHP |
-| **Web & Backend** | Django, ASP.NET Core, Laravel, FastAPI |
+| **Web & Backend** | ASP.NET Core, Laravel, FastAPI |
 | **Low-Level / System** | STL, Multithreading, Memory Management (C++) |
-| **Databases** | PostgreSQL, MySQL, Redis, MongoDB |
-| **DevOps & Tools** | Docker, Kubernetes, CI/CD, Git, Linux |
+| **Databases** | SQL Server, PostgreSQL, MySQL, MongoDB |
+| **DevOps & Tools** | CI/CD, Git, Linux |
 
 ---
 
@@ -31,8 +31,8 @@ I am a seasoned software developer with over **18 years of professional experien
 ---
 
 ### 📫 How to reach me
-* **LinkedIn:** [Your Profile Link]
-* **Email:** [Your Email Address]
-* **Portfolio/Blog:** [Your Website]
+* **LinkedIn:** [[Your Profile Link](https://www.linkedin.com/in/alexander-volynsky)]
+* **Email:** [alexander.volynsky.dev@gmail.com]
+* **Portfolio/Blog:** [[Your Website](https://www.codeproject.com/search?editorId=478442)]
 
 "The best way to predict the future is to invent it."
